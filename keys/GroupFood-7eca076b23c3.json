@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "groupfood-143815",
+  "private_key_id": "7eca076b23c3360e194bdbf386ad55ea1240b436",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyVdEbAbu6kQ8G\nIrs2JesHZLfuE34C+2O/XxDOaY2OL1Wu82WkJo/uW8e+TVVp96mRwgdXGpbpwZt9\n0NineXAI9G6J4vO9Lz3SGjObIvZHnFC/w/0nA0szI8gmpxgDHlBWpCzWBgGYsHP2\nVYJdh3jYabMJRrPhj7tps8hDjS5x8abvR7n951dGtwZQhuGNGRpgaCNYAf+5fCnF\n6oQUVsy4dds+Zg7A/l4Wy8EL1lkIDmRDQBzyOUh3rG93/F2mXN6/6ECbarji33rl\nNCL4EVPBHFCIEGxBQNeQ27Btr3T0+mY8d53Ii9nmo31wyREJ026WN9Be+9cJaSS0\ndLs4QEVTAgMBAAECggEAdCmkIIRbhSYx9BwxeA7w7gr0KBb4UPbxPVmuN9XXiBNb\nK6+NuIQJ4whTrqjvByx0fuY1I87FGJStNSIRzd0zVhHp4tU7UTLxgObiUJ5Qb8rp\nalA+mOfzVudq24qiAH4BdL5SGkMlTRE7J+0BEu1IkScgoN02FKosOKkLvLy80Six\nxn6g1EOBbMzcOyyXYbQCv3Y8JDM6aNSRNTXbB7fSHExfWXzE1oVaHcHKZib7sBdR\nV92a5mkkcAXDVnaexPMzaWU5jas3LbKYUm4RY2vgjwblPMsgK5ZDUaQpxZUjrjko\ngwHm+Oasu+Rdd75wrVCxAAC04uLCw4EdW6yMmmwKAQKBgQDceRKmHfUQSKL/yrw+\nVL0buq7IPaEtmGHrrTqdwrGV0mfs0p7FmY4OmiO3k1pOirxyZXb+ZWCDd/5N851z\nuqZJfGiKuQ0/C7gCMeOlTwsW/6OM6OtcmVmU7RNoiL2tRnZAHxSzmVzbiE2+Cryx\ngC5YVzVlcv1JJ3YeUKGQYV5+UwKBgQDPEnutPsLBCe0iucR1HVExEO4WsbmKbKtJ\n1WhvA5EvmxKhBTajt4e36mZGRGS89i/R7pVIrArL1xYUDwrcQCANvjb+K8k9jfU2\nMGmf8oa7cKSwh46TfhpGs0Hh+SLsNmBFcP+F3rhFHC1PBEzQHLpIrnsZYo3t5ZJ4\nZ025ORg9AQKBgD9XtajuYHM+Oz58c9sAo5hs6Tx0oHMmHbQFgBrFTho6aktbM+yX\nsn21gV+DwWVhbMT9K9PpMnJzLigdPvZ6AL6KNMruYcTkTAitZrce35PK/KVGYiCn\nmlo0Rug4qS44WU8Q3vS+sjQMlDFuikoBBs+wtpGgGO9EnCYXimOd5fUrAoGBAL0E\noy6WXpJ1bChJqII7O7TtPlgq7THlVkn0avsDJ5FsHYosRx8U1edVKPy1S7uNgkNA\nZLbMjKJbeMTgokpAosHIw0wqTe1JWu+XK6Ocb85D2aFmbAhIkNW+pcIPeAhk7mYU\n6rqZfl1fhiBdzXwe7RCRbL7UTrg82gHcUn9kFbMBAoGAWl9niavIGL94F3k3zISN\ndVff8h23Mi8DBQcvwQ09yfCKpfuQ+xPja0K4Bh4nU7TU7c6FL04snU6Nuiqbvzzc\nic7GRfOSzDzdavdUlVC5ugFD9FEHY1DNV1FU1VttsFhUt7DiGUJC/4U4uMcoCLT/\nNld6xjzDu76b3HzTiXQ453o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "groupfood-dev@groupfood-143815.iam.gserviceaccount.com",
+  "client_id": "109616678471362297816",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/groupfood-dev%40groupfood-143815.iam.gserviceaccount.com"
+}
